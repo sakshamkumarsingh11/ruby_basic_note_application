@@ -1,0 +1,2 @@
+require './application'
+Application.run
